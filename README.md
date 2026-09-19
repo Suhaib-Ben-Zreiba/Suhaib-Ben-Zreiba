@@ -1,18 +1,8 @@
-<div align="center">
+# Suhaib Ben Zreiba
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:2563eb&height=170&section=header&text=Suhaib%20Ben%20Zreiba&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Computer%20Systems%20Engineering%20%7C%20FPGA%20%26%20RTL%20Design%20%7C%20Verification&descAlignY=58&descSize=15&animation=fadeIn" width="100%"/>
+Computer Systems Engineering · FPGA & RTL Design · Verification
 
-<a href="https://linkedin.com/in/suhaib-ben-zreiba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:suhaibbenzreiba@cmail.carleton.ca"><img src="https://img.shields.io/badge/Email-1f2937?style=flat-square&logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Ottawa%2C_Canada-1f2937?style=flat-square&logo=googlemaps&logoColor=white" />
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&pause=1200&color=2563EB&center=true&vCenter=true&width=560&lines=Designing+and+verifying+digital+hardware;Building+production+systems+that+actually+ship;Currently%3A+RV32I+FPGA+SoC+with+fault+injection" alt="Typing SVG" />
-
-</div>
-
-<br>
-
-## About
+[LinkedIn](https://linkedin.com/in/suhaib-ben-zreiba) · [Email](mailto:suhaibbenzreiba@cmail.carleton.ca) · Ottawa, ON
 
 Third-year Computer Systems Engineering student at Carleton University (**10.57/12.0 GPA, Dean's List**). I work at the boundary of hardware and software: designing and verifying digital logic in Verilog/SystemVerilog on one side, and independently building a production system that a real organization runs on every day on the other.
 
@@ -90,17 +80,4 @@ Seeking **Winter 2027 co-op** roles in FPGA engineering, ASIC design/verificatio
 - [ ] FPGA synthesis and on-board bring-up
 - [ ] Hardware fault injection (ALU / register / PC corruption) + detection
 - [ ] Dual-core lockstep comparison
-
-<br>
-
-## GitHub Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=Suhaib-Ben-Zreiba&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" height="165"/>
-<img src="https://streak-stats.demolab.com?user=Suhaib-Ben-Zreiba&theme=tokyonight&hide_border=true" height="165"/>
-
-<br>
-
-## Let's Connect
-
-[LinkedIn](https://linkedin.com/in/suhaib-ben-zreiba) · [Email](mailto:suhaibbenzreiba@cmail.carleton.ca) · Ottawa, ON
 
