@@ -6,7 +6,7 @@
 FPGA / RTL Design · Digital Verification · Computer Architecture · Embedded Systems
 Software & engineering tooling (secondary)
 
-10.57/12 CGPA · Dean's List · Ottawa, ON · Seeking Winter 2027 Co-op
+Dean's List · Ottawa, ON · Seeking Winter 2027 Co-op
 
 [LinkedIn](https://linkedin.com/in/suhaib-ben-zreiba) · [Email](mailto:suhaibbenzreiba@cmail.carleton.ca)
 
